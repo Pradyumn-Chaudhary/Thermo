@@ -12,5 +12,5 @@ Thermo App leverages **photoplethysmography (PPG)** to measure heart rate and us
 
 ## Download
 
-[Download Thermo App v1.0.0](https://github.com/Pradyumn-Chaudhary/Thermo/releases/download/v1.0.0/app-release.apk)
+[Download Thermo App v1.0.0](https://github.com/Pradyumn-Chaudhary/Thermo/releases/download/v1.0.0/Thermo.apk)
 
